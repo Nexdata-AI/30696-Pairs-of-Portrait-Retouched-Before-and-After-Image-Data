@@ -2,6 +2,7 @@
 
 ## Description
 30,696 Pairs of Portrait Retouched Before and After Image Data. Data collection scenarios include indoor and outdoor scenes, the country distribution is Algeria, Egypt, Hungary, Poland, and Japan. Data types include portrait photos and wedding photos. In terms of data annotation, detailed retouching and annotationing are performed on the collected studio portrait data. The data can be used for tasks such as studio portrait retouching, PS segmentation, and portrait segmentation.
+
 For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1581?source=Github
 
 ## Specifications
